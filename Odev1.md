@@ -4,18 +4,17 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-A   | Zeynep Yeşildağ | 521
+9-A  | Sinem Sonar | 522
 
-#  (buraya proje başlığını yazınız)
+#  Suda Mum
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Bu projede amacımız mumun,suyun içinde yanabilmesini sağlamaktır.Bunu sağlamak için:Yarısına kadar su ile dolu bir bardak,pet şişe, doğum günü mumu,makas,yağ ve çakmak kullandık.Yarısı su ile dolu olan bardağa yağı döktük.Daha sonra pet şişeyi kestik ve yuvarlak, plastik bir cisim elde ettik.Plastiğin ortasını mumun içindeki fitilin geçebilmesi için yeterli olacak şekilde deldik.Mumun dışını soyduk ve fitili delikten geçirdik.Daha sonra bunu içinde su ve yağ olan bardağın içine koyduk.Plastik, mum ile birlikte suyun üstünde yüzmeye başladı.Biz de çakmak ile mumu yaktık ve hiçbir sorun çıkmadan mum yandı.Bunun sebebi:Yağın,suyun üstünde durması ve mumun,plastik cismin yardımıyla dik bir şekilde durduğu için  su ve ateşin birbiriyle temasa geçememesidir.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+1.YAPYAP,Y ''Suda Mum Nasıl Yakılır?'' Son erişim tarihi:26 Eylül 2014
+ https://www.youtube.com/watch?v=GzKWx3msrYI
+2.İPUÇLARIM ''Suda Yanan Mum Nasıl Hazırlanır?'' 
+ https://www.ipuclarim.com/suda-yanan-mum-nasil-hazirlanir/
+3.Origami-Kağıt Katlama Sanatı ''Suda Mum Yakma, Suda Mum Nasıl Yakılır?'' Son Erişim Tarihi:2 Nisan 2016
+ https://www.youtube.com/watch?v=n5YqiMNrGEc
