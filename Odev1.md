@@ -5,8 +5,8 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Zeynep Yeşildağ | 521
-11-D   | Sinem Sonar     | 522
+ 9-A  | Zeynep Yeşildağ | 521
+ 9-A  | Sinem Sonar     | 522
 
 # SUDA MUM 
 ## Özet
