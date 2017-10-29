@@ -9,7 +9,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 # SUDA MUM 
 ## Özet
-Bu projede amacımız mumun, suyun içinde yanabilmesini sağlamaktır. Bunu sağlamka için:Yarısına kadar su ile dolu bir bardak, pet şişe, ddoğum günü mumu, makas, yağ ve çakmak kullandık. Yarısı su ile dolu olan bardağa yağı döktük. Daha sonra pet şişeyi kestik ve yuvarlak, plastik bir cisim elde ettik. Plastiğin ortasını mumun içindeki fitilin geçebilmesi için yeterli olacak şekilde kestik.Mumun dışını soyduk ve fitili delikten geçirdik. Daha sonra bunu içinde su ve yağ olan bardağın içine koyduk. Plastik mum ile birlikte suyun üstünde yüzmeye başladı. Biz de çakmak ile mumu yaktık ve hiçbir sorun çıkmadan mum yandı. Bunun sebebi:Yağın, suyun üstünde durması ve mumun, plastik cismin yardımıyla dik bir şekilde durduğu için  su ve ateşin birbiriyle temasa geçmemesidir. 
+Bu projede amacımız mumun, suyun içinde yanabilmesini sağlamaktır. Bunu sağlamak için:Yarısına kadar su ile dolu bir bardak, pet şişe, doğum günü mumu, makas, yağ ve çakmak kullandık. Yarısı su ile dolu olan bardağa yağı döktük. Daha sonra pet şişeyi kestik ve yuvarlak, plastik bir cisim elde ettik. Plastiğin ortasını mumun içindeki fitilin geçebilmesi için yeterli olacak şekilde kestik.Mumun dışını soyduk ve fitili delikten geçirdik. Daha sonra bunu içinde su ve yağ olan bardağın içine koyduk. Plastik mum ile birlikte suyun üstünde yüzmeye başladı. Biz de çakmak ile mumu yaktık ve hiçbir sorun çıkmadan mum yandı. Bunun sebebi:Yağın, suyun üstünde durması ve mumun, plastik cismin yardımıyla dik bir şekilde durduğu için  su ve ateşin birbiriyle temasa geçmemesidir. 
 
 ## Kaynakçalar  
  
